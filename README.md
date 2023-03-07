@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvgenyTomson
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS HTML and CSS
+- 🌱 I’m currently learning JS and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
