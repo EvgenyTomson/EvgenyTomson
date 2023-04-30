@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EvgenyTomson
+- 👋 Hi, I’m Evgeny.
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS and React.
+- 🌱 I’m currently learning React, Node,JS and express.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
